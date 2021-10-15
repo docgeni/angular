@@ -1,6 +1,6 @@
 {
   "name": "@docgeni/angular",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "All dependencies for Angular ",
   "author": "why520crazy <why520crazy@163.com>",
   "homepage": "https://github.com/docgeni/angular#readme",
@@ -14,7 +14,8 @@
     "url": "git+https://github.com/docgeni/angular.git"
   },
   "scripts": {
-    "release": "wpm release"
+    "release": "wpm release",
+    "pub": "wpm publish"
   },
   "bugs": {
     "url": "https://github.com/docgeni/docgeni/issues"
