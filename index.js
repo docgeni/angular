@@ -1,0 +1,1 @@
+console.log(`This package only for install angular and it's dependencies`);
