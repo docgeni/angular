@@ -15,7 +15,8 @@
   },
   "scripts": {
     "release": "wpm release",
-    "pub": "wpm publish"
+    "pub": "wpm publish",
+    "pub-only": "npm publish"
   },
   "bugs": {
     "url": "https://github.com/docgeni/docgeni/issues"

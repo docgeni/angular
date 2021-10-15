@@ -1,12 +1,11 @@
 module.exports = {
     allowBranch: ['master', 'main'],
-    bumpFiles: [
-        'package.json'
-    ],
+    bumpFiles: ['package.json'],
     skip: {
-        branch: true
+        branch: true,
     },
     commitAll: true,
     hooks: {
-    }
+        postpublish: 'npm run pub-only',
+    },
 };
