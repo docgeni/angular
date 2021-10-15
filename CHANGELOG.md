@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [13.0.0-rc.0](https://github.com/docgeni/angular/compare/v12.0.0...v13.0.0-rc.0) (2021-10-15)
+
+
+### Features
+
+* update to 13.0.0-rc ([6ca9298](https://github.com/docgeni/angular/commit/6ca929868ba7087450da00d433ce36c10464ed36))
+
+
+
 # [12.0.0](https://github.com/docgeni/angular/compare/v11.0.0...v12.0.0) (2021-10-15)
 
 
