@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [12.0.0](https://github.com/docgeni/angular/compare/v11.0.0...v12.0.0) (2021-10-15)
+
+
+### Features
+
+* update ng to 12 ([094679f](https://github.com/docgeni/angular/commit/094679f2fbb1882562e642d423514f066ba5d855))
+* update package-lock.json ([97ab108](https://github.com/docgeni/angular/commit/97ab1089f347e8ade3d35d17afea605d6f365469))
+
+
+
 # [11.0.0](https://github.com/docgeni/angular/compare/v10.0.0...v11.0.0) (2021-10-15)
 
 

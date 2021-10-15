@@ -1,6 +1,6 @@
 {
   "name": "@docgeni/angular",
-  "version": "11.0.0",
+  "version": "12.0.0",
   "description": "All dependencies for Angular ",
   "author": "why520crazy <why520crazy@163.com>",
   "homepage": "https://github.com/docgeni/angular#readme",
@@ -45,6 +45,7 @@
     "zone.js": ">=0.10.2"
   },
   "devDependencies": {
-    "@worktile/pkg-manager": "^0.0.5"
+    "@worktile/pkg-manager": "^0.0.5",
+    "fs-extra": "^10.0.0"
   }
 }
