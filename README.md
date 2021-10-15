@@ -2,6 +2,7 @@
 
 All dependencies for Angular, simplify installation of dependencies.
 
+## Introduction
 For example, to install angular `10`, you should add following dependencies:
 
 ```json
@@ -31,5 +32,12 @@ We can use `@docgeni/angular` to simplify it.
 }
 ```
 
+## Versions
+
+@docgeni/angular| @angular/* | Description
+---| --- | --- 
+`10.0.0`| `10.x` | `^10.2.4`
+`11.0.0`| `11.x` | `^11.2.4`
+`12.0.0`| `12.x` | `^12.2.10`
 
 
