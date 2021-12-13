@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [13.0.0](https://github.com/docgeni/angular/compare/v13.0.0-rc.0...v13.0.0) (2021-12-13)
+
+
+### Features
+
+* bump angular to 13.x ([77d0af8](https://github.com/docgeni/angular/commit/77d0af8e52e1976d07767415d384264c777a5360))
+
+
+
 # [13.0.0-rc.0](https://github.com/docgeni/angular/compare/v12.0.0...v13.0.0-rc.0) (2021-10-15)
 
 
