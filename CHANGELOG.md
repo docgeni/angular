@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [16.0.0](https://github.com/docgeni/angular/compare/v15.0.0...v16.0.0) (2023-07-27)
+
+
+### Features
+
+* upgrade to angular 16 ([e86f79c](https://github.com/docgeni/angular/commit/e86f79ceb7479386c458d55ceb18bd6117893091))
+
+
+
 ## [13.0.1](https://github.com/docgeni/angular/compare/v13.0.0...v13.0.1) (2022-08-10)
 
 
