@@ -44,6 +44,7 @@ We can use `@docgeni/angular` to simplify it.
 `15.0.0`| `15.x` | `^15.0.0`
 `16.0.0`| `16.x` | `^16.0.0`
 `17.0.0`| `17.x` | `^17.0.0`
+`18.0.0`| `18.x` | `^18.0.0`
 `current.0.0`| `current.x` | `^current.0.0`
 
 
