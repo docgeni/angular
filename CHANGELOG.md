@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [18.0.0](https://github.com/docgeni/angular/compare/v17.0.0...v18.0.0) (2024-05-27)
+
+
+### Features
+
+* upgrade ng to 18 ([c0bd9d9](https://github.com/docgeni/angular/commit/c0bd9d949c2d3d03614dbbb9a39f7ebcd4e6d087))
+
+
+
 # [17.0.0](https://github.com/docgeni/angular/compare/v16.0.0...v17.0.0) (2024-04-18)
 
 
