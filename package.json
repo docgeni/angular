@@ -1,6 +1,6 @@
 {
   "name": "@docgeni/angular",
-  "version": "18.0.0",
+  "version": "19.0.0",
   "description": "All dependencies for Angular ",
   "author": "why520crazy <why520crazy@163.com>",
   "homepage": "https://github.com/docgeni/angular#readme",
@@ -22,20 +22,20 @@
     "url": "https://github.com/docgeni/angular/issues"
   },
   "dependencies": {
-    "@angular-devkit/build-angular": "^18.0.1",
-    "@angular-devkit/schematics": "^18.0.0",
-    "@angular-devkit/schematics-cli": "^18.0.0",
-    "@angular/animations": "^18.0.0",
-    "@angular/cli": "^18.0.0",
-    "@angular/common": "^18.0.0",
-    "@angular/compiler": "^18.0.0",
-    "@angular/compiler-cli": "^18.0.0",
-    "@angular/core": "^18.0.0",
-    "@angular/forms": "^18.0.0",
-    "@angular/platform-browser": "^18.0.0",
-    "@angular/platform-browser-dynamic": "^18.0.0",
-    "@angular/router": "^18.0.0",
-    "@schematics/angular": "^18.0.0"
+    "@angular-devkit/build-angular": "^19.0.0",
+    "@angular-devkit/schematics": "^19.0.0",
+    "@angular-devkit/schematics-cli": "^19.0.0",
+    "@angular/animations": "^19.0.0",
+    "@angular/cli": "^19.0.0",
+    "@angular/common": "^19.0.0",
+    "@angular/compiler": "^19.0.0",
+    "@angular/compiler-cli": "^19.0.0",
+    "@angular/core": "^19.0.0",
+    "@angular/forms": "^19.0.0",
+    "@angular/platform-browser": "^19.0.0",
+    "@angular/platform-browser-dynamic": "^19.0.0",
+    "@angular/router": "^19.0.0",
+    "@schematics/angular": "^19.0.0"
   },
   "peerDependencies": {
     "@angular-devkit/build-angular": ">=0.900.0",
@@ -56,6 +56,7 @@
   },
   "devDependencies": {
     "@worktile/pkg-manager": "^0.0.5",
-    "fs-extra": "^10.0.0"
+    "fs-extra": "^10.0.0",
+    "typescript": "~5.6.3"
   }
 }
