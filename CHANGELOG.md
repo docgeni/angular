@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [19.0.0](https://github.com/docgeni/angular/compare/v18.0.0...v19.0.0) (2024-12-20)
+
+
+### Features
+
+* bump ng to 19 ([eadbae5](https://github.com/docgeni/angular/commit/eadbae5069348ae67b3787e0a0aedad65552d0c8))
+
+
+
 # [18.0.0](https://github.com/docgeni/angular/compare/v17.0.0...v18.0.0) (2024-05-27)
 
 
